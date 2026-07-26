@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yaseen</h1>
 <h3 align="center">A Software Engineering Student interested in Full-Stack Web Development and AI/ML</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
